@@ -1,0 +1,56 @@
+{
+    "name": "LabKey",
+    "description": "<p>LabKey provides software solutions that help researchers overcome the data management and workflow challenges faced in today&rsquo;s research environment. Our team, many of whom have scientific backgrounds themselves, is deeply committed to the success of our clients. We work hand-in-hand with organizations to understand the complex needs of modern labs and develop flexible, scalable, extensible systems to address them.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/labkey-logo.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/labkey\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LabKey",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/labkey-logo.png",
+            "humanURL": "http:\/\/www.labkey.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/labkey-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.labkey.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.labkey.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.labkey.org\/wiki\/home\/Documentation\/page.view?name=remoteAPIs"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/LabKey"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LabKey"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.labkey.com\/"
+        }
+    ]
+}
